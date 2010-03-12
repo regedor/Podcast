@@ -1,0 +1,22 @@
+h1. Easter Egg número 1:
+
+h2. Convidados: Ulisses Costa e Luis Mascarenhas
+
+<div id="details">
+
+Na realidade, este é o primeiro podcast do Cesium. 
+Foi neste easter egg que tudo começou.
+
+Embora o episódio 1 seja oficialmente o primeiro, este é o verdadeiro episódio piloto. 
+
+À conversa com o Ulisses e o Luis:
+* Um genérico inovador.
+* Software de Virtualização.
+* Redes Sociais.
+* Entrevista Sapo CodeBits.
+
+Links de referencia:
+* "LinkdIN":http://www.linkedin.com/
+* "Twitter":http://twitter.com/
+
+</div>

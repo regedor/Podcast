@@ -1,0 +1,3 @@
+h1. Regedor's Podcast
+
+A basic sinatra application to publish my podcast.

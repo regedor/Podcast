@@ -1,0 +1,68 @@
+/* = Reset. http://meyerweb.com/eric/thoughts/2007/05/01/reset-reloaded/
+------------------------------------------------------------------------- */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+dl, dt, dd, ol, ul, li, 
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+margin: 0; padding: 0; border: 0; outline: 0; 
+font-weight: inherit; font-style: inherit; font-size: 100%;
+font-family: inherit; vertical-align: baseline;}
+/* remember to define focus styles! */
+:focus { outline: 0; }
+body { line-height: 1; color: black; background: white; }
+ol, ul { list-style: none; }
+/* tables still need 'cellspacing="0"' in the markup */
+table { border-collapse: separate; border-spacing: 0; }
+caption, th, td { text-align: left; font-weight: normal; }
+blockquote:before, blockquote:after, q:before, q:after { content: ""; }
+blockquote, q { quotes: "" ""; }
+
+/*
+############################################################################
+  Podcast do Cesium: main stylesheet
+  author: miguelregedor[at]gmail[dot]com
+############################################################################
+*/
+
+body                        { background: #fff url(/images/background.jpe) no-repeat top;                   }
+body                        { margin: 0;  padding: 0; font-size: 62.5%; color: #fff; height: 100%;          }
+body                        { font-family: Verdana, HelveticaNeue, Helvetica, Arial, sans-serif;            }
+#header                     { width: 800px; height: 144px; margin: auto;                                    }
+#header > h1                { background: url(/images/logo.png) no-repeat 0 0; margin-top: 33px;            }
+#nav li                     { float: right;margin-left:40px;margin-top:52px; font-size: 2em;                }
+#nav li a                   { text-decoration: none; color: #ccc ;                                          }
+#nav li a:hover             { color: #e44817;                                                               }
+#header > h1                { text-indent: -6666px; height:108px; width:173px; float:left;                  }
+#content                    { width: 800px; margin:auto; background: url(/images/backbox.png) no-repeat;    }
+#content                    { margin-bottom: 20px;  min-height: 70%;                                       }
+#content.clean              { background: none; text-align:center;                                          }
+#footer                     { width: 100%; height: 71;background: url(/images/footer.jpe) repeat            }
+#footer #notes              { width: 800px; margin: auto;                                                   }
+#footer #rights             { float:left; margin-top: 11px; position: absolute;                             }
+#footer #rights             { font-size:1.2em; line-height: 1.3;                                            }
+#footer #rights a           { color: #e44817; text-decoration:none;                                         }
+#footer #twitter a          { background: url(/images/twitter.png) no-repeat 0 0; margin-top: 9px;          }
+#footer #twitter a          { text-indent: -6666px; height:55px; width:200px; float:right;                  }
+
+#content #podcast h1        { font-size: 4em; margin-bottom:0.1em; color: #111; font-weight: bold;          }
+#content #podcast h2        { font-size: 2em; margin-bottom:1em;                                            }
+#content #podcast           { font-size: 1.2em; height: 540px;                                              }
+#content #podcast           { padding: 20px;                                                                }
+#content #post #details     { width: 50%; float: right;                                                     }
+#content #podcast > a       { height: 256px; width: 35%; float: left; display: block; margin-left:8%;       }
+#content #podcast > a       { text-indent: -6666; background: url(/images/mp3micro.png) no-repeat 0 0;      }
+#content #podcast ul        { list-style-type:circle; padding-left: 2em;margin-bottom:1em;                  }
+#content #podcast #details  { line-height:1.3; font-size:1.1em; text-align:justify;                         }
+#content #podcast p         { margin-bottom: 0.5em; line-height:1.3; font-size:1.1em;                       }
+
+#content #list h2           { font-size: 2em; margin-bottom:20px; color: #e44817;                            }
+#content #list a            { display:block; margin-bottom:1em;                                             }
+#content #list a            { color: #333; font-size:1.3em; text-decoration:none;                           }
+#content #list a:hover      { color: #000;                                                                  }
+
+#content #info h2           { font-size: 2em; margin-bottom:20px; color: #e44817;                            }
+#content #info p            { margin-bottom: 0.5em; line-height:1.3; font-size:1.3em; color: #333;          }

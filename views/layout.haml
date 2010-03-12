@@ -1,0 +1,27 @@
+%html{ :xmlns => "http://www.w3.org/1999/xhtml", :lang => "en", "xml:lang" => "en"}
+  %head
+    %meta{"http-equiv" => "Content-Type", :content => "text/html; charset=utf-8"}
+    %link{ :href => "/favicon.png", :rel => "shortcut icon" }
+    %title Podcast do CESIUM
+    %script{ :type => "text/javascript", :src => "/javascripts/jquery.js" }
+    %script{ :type => "text/javascript", :src => "http://www.google.com/friendconnect/script/friendconnect.js" }
+    %script{ :type => "text/javascript", :src => "/javascripts/default.js" }
+    %link{ :href => "/stylesheets/default.css", :media => "screen", :rel => "stylesheet", type => "text/css" }
+  %body
+    #header
+      %h1 Podcast do Cesium
+      #nav 
+        %ul
+          %li
+            %a{ :href => "/info" } INFORMAÇÕES
+          %li
+            %a{ :href => "/todos" } TODOS
+          %li
+            %a{ :href => "/" } ÚLTIMO
+    #content{:class => (@mp3_path ? "box" : "clean")}= yield
+    #footer
+      #notes
+        #twitter
+          %a{ :href => "http://twitter.com/cesium_news" } INFORMAÇÕES
+        #rights
+          <a href="http://validator.w3.org/check/referer">XHTML</a> and <a href="http://jigsaw.w3.org/css-validator/check/referer?warning=no&amp;profile=css2">CSS</a> validators. <br /> <span xmlns:dc="http://purl.org/dc/elements/1.1/" href="http://purl.org/dc/dcmitype/InteractiveResource" property="dc:title" rel="dc:type">Podcast do Cesium</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://regedor.com/" property="cc:attributionName" rel="cc:attributionURL">Miguel Regedor</a>: <br /> Is Licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.5/pt/">Creative Commons Attribution-Share Alike 2.5 Portugal License</a>. 

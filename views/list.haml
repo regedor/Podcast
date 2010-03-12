@@ -1,0 +1,7 @@
+#list
+  -@months.each do |month|
+    %h2= month
+    %ul
+      -@podcasts[month].each do |podcast|
+        %li
+          %a{ :href => podcast.last }= podcast.first 

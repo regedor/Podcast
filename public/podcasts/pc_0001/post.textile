@@ -1,0 +1,21 @@
+h1. PC episódio número 1:
+
+h2. Convidados: Manuel Alcino Cunha e Roberto Machado
+
+<div id="details">
+
+Este é o primeiro podcast do Cesium.
+
+Neste episódio é nos dado a conhecer o professor, e director, do curso de engenharia informatica da universidade do minho.
+
+A conversa com o professor Alcino:
+* Acreditação da LEI.
+* Funcionamento do DI.
+* Interesses pessoais
+* A carreira de professor universitario.
+
+À conversa com o Roberto, presidente do Cesium:
+* Semana da LEI
+* Convite à participação.
+
+</div>
