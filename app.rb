@@ -32,6 +32,9 @@ get '/podcast/:id' do
   if File.directory?(podcasts_path=File.join(File.dirname(__FILE__), 'public', 'podcasts', "pc_#{@id}"))
     @post          = RedCloth.new(File.read(File.join(podcasts_path,"post.textile"))).to_html
     @mp3_path      = "/podcasts/pc_#{@id}/pc_#{@id}.mp3"
+    @player_html   = "<embed height='27' width='400' flashvars='playerMode=embedded' wmode='window' 
+                        bgcolor='#ffffff' quality='best' allowscriptaccess='never' type='application/x-shockwave-flash'
+                        src='http://www.google.com/reader/ui/3247397568-audio-player.swf?audioUrl=#{request.script_name + @mp3_path}' />"
     params[:clean] ? "clean" : haml(:pc_show)
   else
     "URL inválido!"

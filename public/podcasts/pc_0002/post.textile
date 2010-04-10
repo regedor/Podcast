@@ -1,0 +1,11 @@
+h1. PC episódio número 2:
+
+h2. Convidados: André Santos e o Musico.
+
+<div id="details">
+
+Este é o segundo podcast do Cesium.
+
+Descrição em breve.
+
+</div>

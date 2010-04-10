@@ -38,7 +38,7 @@ body                        { font-family: Verdana, HelveticaNeue, Helvetica, Ar
 #nav li a:hover             { color: #e44817;                                                               }
 #header > h1                { text-indent: -6666px; height:108px; width:173px; float:left;                  }
 #content                    { width: 800px; margin:auto; background: url(/images/backbox.png) no-repeat;    }
-#content                    { margin-bottom: 20px;  min-height: 70%;                                       }
+#content                    { margin-bottom: 20px;  min-height: 70%;                                        }
 #content.clean              { background: none; text-align:center;                                          }
 #footer                     { width: 100%; height: 71;background: url(/images/footer.jpe) repeat            }
 #footer #notes              { width: 800px; margin: auto;                                                   }
@@ -56,13 +56,13 @@ body                        { font-family: Verdana, HelveticaNeue, Helvetica, Ar
 #content #podcast > a       { height: 256px; width: 35%; float: left; display: block; margin-left:8%;       }
 #content #podcast > a       { text-indent: -6666; background: url(/images/mp3micro.png) no-repeat 0 0;      }
 #content #podcast ul        { list-style-type:circle; padding-left: 2em;margin-bottom:1em;                  }
-#content #podcast #details  { line-height:1.3; font-size:1.1em; text-align:justify;                         }
+#content #podcast #details  { line-height:1.3; font-size:1.1em; text-align:justify; min-height:300px;       }
 #content #podcast p         { margin-bottom: 0.5em; line-height:1.3; font-size:1.1em;                       }
 
-#content #list h2           { font-size: 2em; margin-bottom:20px; color: #e44817;                            }
+#content #list h2           { font-size: 2em; margin-bottom:20px; color: #e44817;                           }
 #content #list a            { display:block; margin-bottom:1em;                                             }
 #content #list a            { color: #333; font-size:1.3em; text-decoration:none;                           }
 #content #list a:hover      { color: #000;                                                                  }
 
-#content #info h2           { font-size: 2em; margin-bottom:20px; color: #e44817;                            }
+#content #info h2           { font-size: 2em; margin-bottom:20px; color: #e44817;                           }
 #content #info p            { margin-bottom: 0.5em; line-height:1.3; font-size:1.3em; color: #333;          }
