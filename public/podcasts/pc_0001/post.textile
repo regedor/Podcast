@@ -18,4 +18,7 @@ A conversa com o professor Alcino:
 * Semana da LEI
 * Convite à participação.
 
+Links de referência:
+* "Cesium":http://cesium.di.uminho.pt
+* "Semana da LEI":http://cesium.di.uminho.pt/www/cesium/index.php?option=com_content&task=view&id=260&Itemid=1
 </div>

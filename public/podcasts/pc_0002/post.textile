@@ -6,6 +6,15 @@ h2. Convidados: André Santos e o Musico.
 
 Este é o segundo podcast do Cesium.
 
-Descrição em breve.
+Neste podcast juntamente com o vice-presidente do Cesium, André Santos, são discutidos alguns temas com interesse sobretudo para os alunos de engenharia informática
 
+A conversa com André Santos:
+* Gata na Praia
+* Lançamento do iPad
+* TIUP - Torneio Inter Universitário de Programação
+* Google Code Jam
+
+Links de referencia:
+* "TIUP":http://caos.di.uminho.pt/~tiup/
+* "Google Code Jam":http://code.google.com/codejam/
 </div>
