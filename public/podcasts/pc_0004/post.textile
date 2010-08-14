@@ -1,20 +1,18 @@
-h1. PC episódio número 2:
+h1. PC episódio número 4:
 
-h2. Convidados: André Santos e o Musico.
+h2. Convidados: Orlando Belo.
 
 <div id="details">
 
-Este é o segundo podcast do Cesium.
+Este é o quarto podcast do Cesium, e o primeiro de uma série sobre as UCEs do Mestrado em Engenharia Informática.
 
-Neste podcast juntamente com o vice-presidente do Cesium, André Santos, são discutidos alguns temas com interesse sobretudo para os alunos de engenharia informática
+O convidado é o professor Orlando Belo, responsável pela UCE de Sistemas de Suporte à Decisão, que fala sobretudo daquilo que se pode aprender nesta unidade curricular, para quem esta se direcciona, e quais as saidas profissionais
 
-A conversa com André Santos:
-* Gata na Praia
-* Lançamento do iPad
-* TIUP - Torneio Inter Universitário de Programação
-* Google Code Jam
+A conversa com Orlando Belo:
+* LESI vs LEI
+* A UCE de SSD
 
 Links de referencia:
-* "TIUP":http://caos.di.uminho.pt/~tiup/
-* "Google Code Jam":http://code.google.com/codejam/
+* Orlando Belo:http://www3.di.uminho.pt/~omb/
+* SSD:http://www.di.uminho.pt/ensino/formacao-avancada/sistemas-de-suporte-a-decisao
 </div>

@@ -1,20 +1,20 @@
-h1. PC episódio número 2:
+h1. PC episódio número 3:
 
-h2. Convidados: André Santos e o Musico.
+h2. Convidados: Roberto Machado.
 
 <div id="details">
 
-Este é o segundo podcast do Cesium.
+O terceiro podcast do Cesium.
 
-Neste podcast juntamente com o vice-presidente do Cesium, André Santos, são discutidos alguns temas com interesse sobretudo para os alunos de engenharia informática
+Desta vez o convidado é o presidente do Cesium, Roberto Machado, que fala de alguns assuntos relacionados com o Cesium e o Mestrado em Engenharia Informática
 
-A conversa com André Santos:
-* Gata na Praia
-* Lançamento do iPad
-* TIUP - Torneio Inter Universitário de Programação
-* Google Code Jam
+Foi também anunciada neste podcast a realização de uma série de podcasts sobre as várias UCEs oferecidas pelo Mestrado em Engenharia Informática na Universidade do Minho.
+
+A conversa com Roberto Machado
+* O Mestrado em Engenharia Informática
+* Os eventos organizados pelo Cesium
 
 Links de referencia:
-* "TIUP":http://caos.di.uminho.pt/~tiup/
-* "Google Code Jam":http://code.google.com/codejam/
+* MEI:http://www.di.uminho.pt/ensino/mestrados/mestrado-de-engenharia-informatica
+
 </div>
