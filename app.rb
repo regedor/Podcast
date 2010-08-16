@@ -11,7 +11,7 @@ end
 get '/todos' do
   @months   = []
   @podcasts = {}
-  Dir[File.join(File.dirname(__FILE__), 'public', 'podcasts','*','details')].each do |path|
+  Dir[File.join(File.dirname(__FILE__), 'public', 'podcasts','*','details')].sort.reverse.each do |path|
     details = File.readlines(path)
     month = details.last
     unless @podcasts[month]
