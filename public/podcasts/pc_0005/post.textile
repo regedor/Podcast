@@ -8,6 +8,6 @@ Edição número 5 do podcast do Cesium. O convidado é o professor José Nuno O
 
 
 Links de referencia:
-* José Nuno Oliveira:http://www3.di.uminho.pt/~jno/
-* UCE de Métodos Formais:http://www.di.uminho.pt/ensino/formacao-avancada/metodos-formais-em-engenharia-de-software
+* "José Nuno Oliveira":http://www3.di.uminho.pt/~jno/
+* "UCE de Métodos Formais":http://www.di.uminho.pt/ensino/formacao-avancada/metodos-formais-em-engenharia-de-software
 </div>

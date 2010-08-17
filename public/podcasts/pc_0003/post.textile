@@ -15,6 +15,6 @@ A conversa com Roberto Machado
 * Os eventos organizados pelo Cesium
 
 Links de referencia:
-* MEI:http://www.di.uminho.pt/ensino/mestrados/mestrado-de-engenharia-informatica
+* "MEI":http://www.di.uminho.pt/ensino/mestrados/mestrado-de-engenharia-informatica
 
 </div>
