@@ -66,7 +66,7 @@ end
 get '/todos.rss' do
   xml = Builder::XmlMarkup.new
   xml.instruct! :xml, :version => "1.0" 
-  xml.rss :version => "2.0", 'xmlns:itunes' => "http://www.itunes.com/dtds/podcast-1.0.dtd", 'xmlns:media' => "http://search.yahoo.com/mrss/" do
+  rss = xml.rss :version => "2.0", 'xmlns:itunes' => "http://www.itunes.com/dtds/podcast-1.0.dtd", 'xmlns:media' => "http://search.yahoo.com/mrss/" do
     xml.channel do
       xml.title "Podcast do CeSIUM"
       xml.description "Lots of Podcasts by Miguel Regedor"
@@ -75,17 +75,17 @@ get '/todos.rss' do
       xml.image do
         xml.url url_for("/images/logo.png")
         xml.title "Podcast do CeSIUM"
-        xml.link url_for("/")
+        xml.link url_for("/todos")
       end
       Dir[File.join(File.dirname(__FILE__), 'public', 'podcasts','*','details')].sort.reverse.each do |path|
         details = File.readlines(path)
         id = details[0].strip
-        title = details[1]
+        title = details[1].strip
         date = Time.parse(details[2].strip).to_s(:rfc822)
         podcast_path = url_for "/podcast/#{id}"
         mp3_path     = url_for "/podcasts/pc_#{id}/pc_#{id}.mp3"
         File.read(File.join(path[0..-8],"post.textile")) =~ /h2.*?\n(.*)/m
-        post = RedCloth.new($1.to_s).to_html
+        post = RedCloth.new($1.to_s).to_s
         xml.item do
           xml.title title
           xml.description post
@@ -99,7 +99,7 @@ get '/todos.rss' do
       end
     end
   end 
-  cache xml.to_s
+  cache rss
 end
 
 
