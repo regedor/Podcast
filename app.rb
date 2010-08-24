@@ -43,7 +43,7 @@ def cache(text)
 end 
 
 get '/' do
-  id = File.readlines(Dir[File.join(File.dirname(__FILE__), 'public', 'podcasts','*','details')].last).first
+  id = File.readlines(Dir[File.join(File.dirname(__FILE__), 'public', 'podcasts','*','details')].sort.last).first
   redirect "/podcast/#{id}"
 end
 
