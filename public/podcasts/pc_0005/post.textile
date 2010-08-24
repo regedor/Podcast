@@ -1,20 +1,13 @@
-h1. PC episódio número 2:
+h1. PC episódio número 5:
 
-h2. Convidados: André Santos e o Musico.
+h2. Convidados: José Nuno Oliveira.
 
 <div id="details">
 
-Este é o segundo podcast do Cesium.
+Edição número 5 do podcast do Cesium. O convidado é o professor José Nuno Oliveira, responsável pela UCE de Métodos Formais em Engenharia de Software. Neste podcast, fala-nos do seu percurso até se tornar professor na Universidade do Minho, e descreve também a UCE de Métodos Formais em Engenharia de Software, e a sua importância hoje em dia
 
-Neste podcast juntamente com o vice-presidente do Cesium, André Santos, são discutidos alguns temas com interesse sobretudo para os alunos de engenharia informática
-
-A conversa com André Santos:
-* Gata na Praia
-* Lançamento do iPad
-* TIUP - Torneio Inter Universitário de Programação
-* Google Code Jam
 
 Links de referencia:
-* "TIUP":http://caos.di.uminho.pt/~tiup/
-* "Google Code Jam":http://code.google.com/codejam/
+* "José Nuno Oliveira":http://www3.di.uminho.pt/~jno/
+* "UCE de Métodos Formais":http://www.di.uminho.pt/ensino/formacao-avancada/metodos-formais-em-engenharia-de-software
 </div>

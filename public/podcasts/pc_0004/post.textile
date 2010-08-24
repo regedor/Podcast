@@ -13,6 +13,6 @@ A conversa com Orlando Belo:
 * A UCE de SSD
 
 Links de referencia:
-* Orlando Belo:http://www3.di.uminho.pt/~omb/
-* SSD:http://www.di.uminho.pt/ensino/formacao-avancada/sistemas-de-suporte-a-decisao
+* "Orlando Belo":http://www3.di.uminho.pt/~omb/
+* "SSD":http://www.di.uminho.pt/ensino/formacao-avancada/sistemas-de-suporte-a-decisao
 </div>

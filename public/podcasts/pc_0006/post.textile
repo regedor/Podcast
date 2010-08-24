@@ -4,17 +4,11 @@ h2. Convidados: Manuel Bernardo Barbosa.
 
 <div id="details">
 
-Este é o segundo podcast do Cesium.
+Este é o podcast número 6 do Cesium
 
-Neste podcast juntamente com o vice-presidente do Cesium, André Santos, são discutidos alguns temas com interesse sobretudo para os alunos de engenharia informática
-
-A conversa com André Santos:
-* Gata na Praia
-* Lançamento do iPad
-* TIUP - Torneio Inter Universitário de Programação
-* Google Code Jam
+Neste podcast o convidado é o professor Manuel Bernardo Barbosa, para nos falar um pouco do seu percurso profissional, mas sobretudo da UCE de Criptografia e Segurança de Sistemas de Informação, que lecciona actualmente.
 
 Links de referencia:
-* "TIUP":http://caos.di.uminho.pt/~tiup/
-* "Google Code Jam":http://code.google.com/codejam/
+* "Manuel Bernardo Barbosa":http://www3.di.uminho.pt/~mbb/
+* "UCE de Criptografia":http://www.di.uminho.pt/ensino/formacao-avancada/criptografia-e-seguranca-de-sistemas-de-informacao
 </div>
