@@ -1,0 +1,14 @@
+h1. PC episódio número 7:
+
+h2. Convidados: Pedro Rangel Henriques.
+
+<div id="details">
+
+Este é o podcast número 6 do Cesium
+
+Neste podcast o convidado é o professor Manuel Bernardo Barbosa, para nos falar um pouco do seu percurso profissional, mas sobretudo da UCE de Criptografia e Segurança de Sistemas de Informação, que lecciona actualmente.
+
+Links de referencia:
+* "Manuel Bernardo Barbosa":http://www3.di.uminho.pt/~mbb/
+* "UCE de Criptografia":http://www.di.uminho.pt/ensino/formacao-avancada/criptografia-e-seguranca-de-sistemas-de-informacao
+</div>
