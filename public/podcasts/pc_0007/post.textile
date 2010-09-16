@@ -4,7 +4,7 @@ h2. Convidados: Pedro Rangel Henriques.
 
 <div id="details">
 
-Este é o podcast número 6 do Cesium
+Este é o podcast número 7 do Cesium
 
 Neste podcast o convidado é o professor Pedro Rangel Henriques, para nos falar um pouco sobre a UCE de Engenharia de Linguagens, e tambem divulgar o INFORUM2010, simpósio de informática que decorre esta semana na Universidade do minho. 
 

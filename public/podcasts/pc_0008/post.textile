@@ -1,0 +1,13 @@
+h1. PC episódio número 8:
+
+h2. Convidados: Paulo Carvalho.
+
+<div id="details">
+
+Este é o podcast número 8 do Cesium
+
+Neste podcast o convidado é o professor Paulo Carvalho, para nos falar sobre a UCE de Tecnologias e Protocolos de Infra-estrutura.
+
+Links de referencia:
+* "Paulo Carvalho":http://marco.uminho.pt/~paulo/
+</div>
