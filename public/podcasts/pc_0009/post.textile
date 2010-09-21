@@ -1,0 +1,13 @@
+h1. PC episódio número 9:
+
+h2. Convidados: Alberto Proença
+
+<div id="details">
+
+Este é o podcast número 9 do Cesium
+
+Neste podcast o convidado é o professor Alberto Proença, para nos falar sobre a UCE de Computação Paralela Distribuída.
+
+Links de referencia:
+* "Alberto Proença":http://gec.di.uminho.pt/ajp/
+</div>
