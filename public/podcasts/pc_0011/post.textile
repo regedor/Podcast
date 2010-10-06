@@ -1,13 +1,13 @@
-h1. PC episódio número 8:
+h1. PC episódio número 11:
 
-h2. Convidados: Paulo Carvalho.
+h2. Convidados: Rui Carlos Oliveira.
 
 <div id="details">
 
-Este é o podcast número 8 do Cesium
+Este é o podcast número 11 do Cesium
 
-Neste podcast o convidado é o professor Paulo Carvalho, para nos falar sobre a UCE de Tecnologias e Protocolos de Infra-estrutura.
+Neste podcast o convidado é o professor Rui Oliveira, para nos falar sobre a UCE de Sistemas distribuidos.
 
 Links de referencia:
-* "Paulo Carvalho":http://marco.uminho.pt/~paulo/
+* "Rui Oliveira":http://gsd.di.uminho.pt/members/rco
 </div>
