@@ -1,0 +1,13 @@
+h1. PC episódio número 12:
+
+h2. Convidados: Francisco Moura.
+
+<div id="details">
+
+Este é o podcast número 12 do Cesium
+
+Neste podcast o convidado é o professor Francisco Moura, para nos falar sobre a UCE de Engenharia de Aplicações.
+
+Links de referencia:
+* "Francisco Moura":http://www3.di.uminho.pt/~fsm/
+</div>
