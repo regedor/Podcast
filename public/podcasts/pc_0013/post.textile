@@ -7,8 +7,8 @@ h2. Convidados: André Santos.
 Este é o podcast número 13 do Cesium
 
 Neste podcast juntamente com o vice-presidente do Cesium, André Santos, são discutidos dois eventos decorridos na Universidade do Minho em Setembro deste ano:
-*INFORUM 2010 - A segunda edição do simpósio de informática decorrida nos dias 9 e 10 de Setembro
-*JOIN 2010 - As jornadas de informática organizadas pelo Departamento de Informática decorridas nos dias 15, 16 e 17 de Setembro
+*INFORUM 2010 - A segunda edição do simpósio de informática, decorrida nos dias 9 e 10 de Setembro
+*JOIN 2010 - As jornadas de informática organizadas pelo Departamento de Informática, decorridas nos dias 15, 16 e 17 de Setembro
 
 Links de referencia:
 * "INFORUM 2010":http://inforum.org.pt/INForum2010
