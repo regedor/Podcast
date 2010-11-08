@@ -1,0 +1,17 @@
+h1. PC episódio número 14:
+
+h2. Convidados: Sara Castro, Andreia Henriques, Natália, Rodrigo Castro, Javier Santos, Helder Castro, Oscar Cabral, Sara Graça, Nuno Tavares, Pedro Aparício.
+
+<div id="details">
+
+Este é o podcast número 14 do Cesium
+
+Neste podcast, com a presença de vários convidados, relatamos os principais acontecimentos no Seminário Nacional "República e Juventude". Organizado pelo Conselho Nacional da Juventude, foi um evento em que o Cesium teve oportunidade de participar, a convite da AAUM. 
+Decorrido durante as celebrações do Centenário da República, o Cesium marcou presença representando a juventude, a nossa universidade e o centro de estudantes.
+
+A gravaçao foi a possível com os meios disponíveis.
+
+
+Links de referencia:
+* "Conselho Nacional de Juventude":http://www.cnj.pt/
+</div>
