@@ -1,15 +1,15 @@
-h1. PC epis—dio número 15:
+h1. PC episódio número 15:
 
 h2. Convidados: Nuno Job
 
 <div id="details">
 
-Este Ž o podcast nœmero 15 do Cesium.
+Este é o podcast número 15 do Cesium.
 
-Desta vez o convidado Ž o Nuno Job, licenciado em Engenharia Inform‡tica na Universidade do Minho, frequentou as UCEs de Criptografia e Engenharia de Linguagens.
-Trabalhou 2 anos na IBM e actualmente Ž Technical Trainer na MarkLogic.
+Desta vez o convidado é o Nuno Job, licenciado em Engenharia Informática na Universidade do Minho, frequentou as UCEs de Criptografia e Engenharia de Linguagens.
+Trabalhou 2 anos na IBM e actualmente é Technical Trainer na MarkLogic.
 
 
 Links de referencia:
-* "P‡gina Pessoal":http://www.nunojob.com/
+* "Página Pessoal":http://www.nunojob.com/
 </div>
