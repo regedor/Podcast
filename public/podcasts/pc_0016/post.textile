@@ -1,0 +1,16 @@
+h1. PC episódio número 16: 
+
+h2. Convidados: Simão Soares
+
+<div id="details">
+
+Este é o podcast número 16 do Cesium.
+
+Desta vez o convidado é o Simão Soares, licenciado em Engenharia Informática na Universidade do Minho, terminou o Mestrado em Bioinformática.
+Actualmente é CEO da empresa SilicoLife, focada no mercado da Biotecnologia, é uma spin-off da Universidade do Minho e do programa MIT Portugal Bioengenharia. Foi a vencedora do concurso "Atreve-te 2010", destinado a premiar o empreendorismo e novas ideias por estudantes e recém formados.
+
+
+
+Links de referencia:
+* "SilicoLife":http://www.silicolife.com/
+</div>
