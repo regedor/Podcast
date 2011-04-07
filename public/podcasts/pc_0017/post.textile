@@ -1,0 +1,14 @@
+h1. PC episódio número 17: 
+
+h2. Convidados: André Santos, Roberto Machado, Luís Zamith, Rui Gonçalo e Pedro Pereira.
+
+<div id="details">
+
+Este é o podcast número 17 do Cesium.
+
+Neste podcast, com a presença de vários convidados, relatamos os principais acontecimentos no Sapo CODEBITS. Trata-se de um evento organizado pela Sapo que decorreu nos dias 11 a 13 de Novembro 2010.
+
+
+Links de referencia:
+* "CODEBITS":http://codebits.eu/
+</div>
