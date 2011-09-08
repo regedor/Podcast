@@ -1,0 +1,15 @@
+h1. PC episódio número 18: 
+
+h2. Convidado: João Miguel Fernandes
+
+<div id="details">
+
+Este é o podcast número 18 do Cesium.
+
+Neste podcast entramos em conversa com o professor João Miguel Fernandes, membro do Departamento de Informática e Director de Mestrado em Engenharia Informática (MEI) e Mestrado em Informática. Mais recentemente, juntamente com o DI, lançou a iniciativa InfoBiz que prentende dar continuidade aos projectos dos alunos da disciplina UCE15 do 2º ano do MEI e pontenciar o empreendedorismo no ambiente académico.
+
+Links de referencia:
+* "Departamento de Informática":http://di.uminho.pt/
+* "Mestrado em Engenharia Informática":http://mei.di.uminho.pt/
+* "InfoBiz":http://mei.di.uminho.pt/?q=pt-pt/infobiz
+</div>
